@@ -1,1 +1,1 @@
-in this question I solved the mixed list types
+in this question I sorted the mixed list types values
