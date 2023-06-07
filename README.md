@@ -1,1 +1,1 @@
-# heterogenous_list_sort_python
+in this question I solved the mixed list types
